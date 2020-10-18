@@ -9,5 +9,9 @@
         "language_kernel_mapping": {
             "python": "python3"
         }
+    };
+    "TagRemovePreprocessor": {
+        "remove_all_outputs_tags" = '{"viola-hide-output"}',
+        "remove_cell_tags"='{"hide"}
     }
 }

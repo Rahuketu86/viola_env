@@ -1,5 +1,4 @@
 {
-
     "TagRemovePreprocessor": {
         "remove_all_outputs_tags" : {"voila-hide-output"},
         "remove_cell_tags" : {"voila-hide"}

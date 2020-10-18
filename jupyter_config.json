@@ -1,7 +1,7 @@
 {
 
     "TagRemovePreprocessor": {
-        "remove_all_outputs_tags" = {"viola-hide-output"},
-        "remove_cell_tags" = {"viola-hide"}
+        "remove_all_outputs_tags" : {"voila-hide-output"},
+        "remove_cell_tags" : {"voila-hide"}
     }
 }
